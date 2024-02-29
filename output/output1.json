@@ -1,0 +1,14 @@
+{
+   "apim-request-id": "18497f9e-d034-461d-8a13-4475c586de37",
+   "content-length": "154",
+   "content-type": "application/json; charset=utf-8",
+   "modelVersion": "2023-10-01",
+   "captionResult": {
+      "text": "a blue balloon in the sky",
+      "confidence": 0.8191493153572083
+   },
+   "metadata": {
+      "width": 1024,
+      "height": 1024
+   }
+}
